@@ -1,0 +1,19 @@
+/* styles.css */
+
+.thumbnail {
+    cursor: pointer;
+    margin: 5px;
+}
+
+.thumbnail.selected {
+    border: 2px solid blue;
+}
+
+.main-image {
+    max-width: 500px;
+    margin: 20px 0;
+}
+
+.button-container {
+    margin-top: 10px;
+}
